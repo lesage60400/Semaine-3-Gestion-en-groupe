@@ -31,7 +31,26 @@ Présentation d'une méthode pour héberger le CV et le site personnel qui étai
 Débriefing de la fin de semaine 2 et de la journée avec la nouvelle organisation de travail.
 
 ## Mardi 23 mai 2017
-Présentation de Trello pour la gestion de projet en groupe:  
+- Présentation de Trello pour la gestion de projet en groupe:  
 https://www.youtube.com/watch?v=DqmXYPNrHcw  
-Création du profil de chacun sur trello + exercice
+- Création du profil de chacun sur trello + exercice
+- Présentation des maquettes des groupes et ce mettre d'accord sur le système choisi.
 
+Présentation des projets
+Les projets devra être fait en groupe et l'organisation et la répartition des tâches devra être gérer par le chef d'équipe et devra utiliser le plus possible les outils vu les semaines précédentes:  
+  Pencil et/ou Balsamiq
+  Trello  
+- Faire un journal d'actualité avec 3 thèmes (Sport, Cinéma, Actualité du numérique)
+Pour chaque thème il devra y avoir 3 articles  
+Couleur pour le site seront celles de la ville de Paris(bleu et rouge)
+
+- Création d'un site e-commerce de produit informatique (imprimante, clavier, unité centrale...):
+https://www.youtube.com/watch?v=DCd3_HsG1s4
+Faire apparaître les produits par catégorie
+4 références type de produits
+Couleur de votre choix.
+
+- Création le site d'un hotel le WORDNIGHT Hotel
+Avec la possibilité de réserver une chambre
+Pour des manifestations réserver la salle de réception grâce à un calendrier.
+https://wpformation.com/meilleur-plugin-calendrier-gratuit-wordpress/
