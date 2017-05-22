@@ -28,4 +28,7 @@ Présentation et mise en place de la méthode pomodoro :
 
 Présentation d'une méthode pour héberger le CV et le site personnel qui était à faire pour la semaine 2 sur 000webhost.
 
+Débriefing de la fin de semaine 2 et de la journée avec la nouvelle organisation de travail.
 
+## Mardi 23 mai 2017
+=> Création 
