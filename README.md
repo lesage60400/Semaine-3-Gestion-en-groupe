@@ -22,4 +22,10 @@ Les impératifs:
 couleurs de l'italie
 donne envie d'y aller
 
-Présentation de la méthode pomodoro :
+Présentation et mise en place de la méthode pomodoro :
+45 minutes de travail
+5 minutes de pauses.
+
+Présentation d'une méthode pour héberger le CV et le site personnel qui était à faire pour la semaine 2 sur 000webhost.
+
+
