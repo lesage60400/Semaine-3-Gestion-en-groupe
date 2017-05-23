@@ -31,6 +31,8 @@ Présentation d'une méthode pour héberger le CV et le site personnel qui étai
 Débriefing de la fin de semaine 2 et de la journée avec la nouvelle organisation de travail.
 
 ## Mardi 23 mai 2017
+- Présentation de la vidéo d'Erwann Kezzar et intervention à 11H30  
+https://www.youtube.com/watch?v=706tS6pW0BA
 - Présentation de Trello pour la gestion de projet en groupe:  
 https://www.youtube.com/watch?v=DqmXYPNrHcw  
 - Création du profil de chacun sur trello + exercice  
