@@ -83,3 +83,11 @@ Calendrier des concerts
 Photos  
 Les albums  
 Vidéos  
+
+- Présentation des groupes pour le défi de la semaine 4 :
+GROUPE 1 : Jeremy ©	Bella	Sylvain  
+GROUPE 2 : Alexandre	Lea ©	Ismail  
+GROUPE 3 : Fegan	Stalyne ©	Cherif  
+GROUPE 4 : Lionel	Pauline	William ©  
+GROUPE 5 : Stevens ©	Chloé	Mamadou  
+GROUPE 6 : Jonathan ©	Williams	Kenza  
