@@ -34,6 +34,23 @@ Débriefing de la fin de semaine 2 et de la journée avec la nouvelle organisati
 - Présentation de Trello pour la gestion de projet en groupe:  
 https://www.youtube.com/watch?v=DqmXYPNrHcw  
 - Création du profil de chacun sur trello + exercice
+Exercice d'application
+	Créer votre profil sur trello
+	Créer un tableau appelé première utilisation trello en public
+	Mettez-vous en administrateur
+	Invitez votre voisin que vous mettrez en normal.
+	Dans le tableau créer 3 listes :
+o	Entrée
+o	Plat
+o	Dessert
+	Pour chaque liste, trouvez deux plats de votre choix que vous allez mettre dans les cartes (avec comme titre le nom du plat).
+	Modifier pour chaque plat la description en faisant une description à vous du plat choisi.
+	Pour chaque plat, faites une checklist des ingrédients dont vous avez besoin pour réaliser le menu.
+	A chaque plat de toutes les catégories, attribuer soit à vous soit à votre voisin le plat pour savoir qui doit le réaliser.
+	Indiquer pour chaque plat, quand le plat doit être réalisé.
+	Insérez une photo qui représente chaque plat.
+	Envoyez-moi sur discord le lien.
+
 - Présentation des maquettes des groupes et ce mettre d'accord sur le système choisi.
 
 Présentation des projets
